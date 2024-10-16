@@ -65,5 +65,9 @@ if i==j:
     print("Match Draw")
 if i>j:
     print("You Wins")
+    print("Your Score:",i)
+    print("Computer Score:",j)
 if i<j:
     print("Computer Wins")
+    print("Your Score:",i)
+    print("Computer Score:",j)
